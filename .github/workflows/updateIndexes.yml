@@ -2,12 +2,9 @@ name: Update indexes
 
 on:
   push:
-    branches:
-      - master
 
 jobs:
   build:
-    if: github.repository == 'ProfileCreator/ProfileManifests'
     runs-on: ubuntu-latest
     steps:
       - name: Clone repository
