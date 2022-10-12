@@ -595,6 +595,13 @@
 			<key>path</key>
 			<string>Icons/ManagedPreferencesApplications/org.mozilla.firefox.png</string>
 		</dict>
+		<key>com.cloudflare.warp</key>
+		<dict>
+			<key>hash</key>
+			<string>1bdd2b4352e6f5b405afb4f51d1da061</string>
+			<key>path</key>
+			<string>Icons/ManagedPreferencesApplications/com.cloudflare.warp.png</string>
+		</dict>
 		<key>org.sveinbjorn.Platypus</key>
 		<dict>
 			<key>hash</key>
